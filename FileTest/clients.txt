@@ -1,0 +1,3 @@
+Client [nom=Lavoinon, prenom=Hubert, reference=1]
+Client [nom=Loisel, prenom=Dominick, reference=2]
+Client [nom=Poulouin, prenom=Pierre, reference=3]
